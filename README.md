@@ -90,7 +90,6 @@ void loop()
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/75234588/166481089-d63f0dff-c9d7-457c-a91a-b8a361aedcaf.png)
 
-![exp 4 table](https://user-images.githubusercontent.com/75234588/166481269-6a26ac81-bbca-4f6d-83e2-0ba481284596.jpeg)
 
 
 
